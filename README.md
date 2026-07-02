@@ -1,7 +1,6 @@
 # 🔐 AES Encryption Demo in Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Educational-orange)
 
 A simple Python project demonstrating **AES (Advanced Encryption Standard)** encryption and decryption using the **PyCryptodome** library.
