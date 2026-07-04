@@ -61,7 +61,6 @@ aes-encryption-demo-python
 ├── aes_demo.py
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
