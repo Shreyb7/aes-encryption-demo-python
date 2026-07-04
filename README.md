@@ -75,9 +75,7 @@ aes-encryption-demo-python
 
 ---
 
-## ⚠ Disclaimer
 
-This repository was created for educational purposes.
 
 For real-world applications, secure modes such as **AES-CBC** or **AES-GCM** should be used instead of ECB.
 
